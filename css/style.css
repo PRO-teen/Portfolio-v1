@@ -93,7 +93,7 @@
 .site-main .about-area{
     padding: 8rem 5rem;
 }
-.cv{
+/* .cv{
     position: relative;
     text-decoration: none;
     background: white;
@@ -105,8 +105,8 @@
 }
 .cv-container{
     padding: 0;
-    /* color: aliceblue; */
-}
+
+} */
 .site-main .about-area .about-title h2 > span{
     display: block;
     font: normal bold 49px/ 60px var(--roboto);
@@ -254,7 +254,12 @@
 .site-main .project-area .grid .our-project .img a:hover img{
     filter: brightness(1.1) drop-shadow(1px 8px 30px #b1afaf);
 }
-
+.button-group button{
+    color: black;
+}
+.button-group button:hover{
+    color: blueviolet;
+}
 
 /* End Project Area */ 
 
