@@ -119,7 +119,7 @@
 .site-main .subscribe-us-area .subscribe {
   background: #41295a;
   background: -webkit-linear-gradient(45deg, #41295a, #2f0743);
-  background: linear-gradient(45deg, #41295a, #2f0743);
+  background: linear-gradient(90deg, #4458dc 0%, #854fee 100%);
   padding: 5rem 0;
   margin: 1rem auto;
 }
@@ -180,7 +180,7 @@ footer.footer-area .icons a:hover > i {
 }
 .icons {
   border: 2px solid gray;
-  background: #2f0743;
+  background: linear-gradient(90deg, #4458dc 0%, #854fee 100%);;
 }
 .buttons {
   float: right;
